@@ -1,7 +1,7 @@
 
 *********************************************************************************
  Program: Quantitative analysis project.sas                                               
- Author : Rushikesh, Shashank, Abhilash
+ 
                                                            
  Description: Takes the crspm_small dataset which is the full set of monthly
  returns from CRSP and examines the gross profit and value anomaly with sorts and graphs using
